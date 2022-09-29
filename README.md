@@ -1,3 +1,3 @@
-# website-files
+# Personal website files
 
-Files for the website https://www.sungminparkecon.com/
+https://www.sungminparkecon.com/
